@@ -1,0 +1,21 @@
+/// body
+<a href="http://zh.inmu.wikia.com/wiki/%E7%9C%9F%E5%A4%8F%E5%A4%9C%E7%9A%84%E9%93%B6%E6%A2%A6%E4%B8%AD%E6%96%87_Wiki:%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E7%9C%9F%E5%A4%8F%E5%A4%9C%E7%9A%84%E9%93%B6%E6%A2%A6%E4%B8%AD%E6%96%87Wiki">
+<img src="https://i.loli.net/2018/09/14/5b9bca7356ece.png" alt="中文InmWiki" title="真夏夜的银梦 中文Wiki" width="175" height="35" align="left" style="margin:3px;">
+</a>
+<a href="http://zh.cookie.wikia.com/wiki/%E9%A6%96%E9%A1%B5">
+<img src="https://i.loli.net/2018/09/14/5b9bc8999661e.jpg" alt="中文饼Wiki" title="Cookie☆中文Wiki" width="175" height="35" align="left" style="margin:3px;">
+</a>
+<a href="http://tieba.baidu.com/f?kw=%E7%9C%9F%E5%A4%8F%E5%A4%9C%E7%9A%84%E9%93%B6%E6%A2%A6&fr=index&fp=0&ie=utf-8&red_tag=o1024670857">
+<img src="https://i.loli.net/2018/09/19/5ba16876705ff.png" alt="InmTieba" title="真夏夜的银梦吧" width="175" height ="35" align="left" style="margin:3px;">
+</a>
+<a href="https://discord.gg/8RVjgt4">
+<img src="https://i.loli.net/2018/09/17/5b9f1f3929e82.png" alt="例区Discord" title="例区站Discord" width="175" height="35" align="left" style="margin:3px;">
+</a>
+<a href="https://afdian.net/@magictea">
+<img src="https://i.loli.net/2018/09/17/5b9fbb68ddff6.png" alt="afdian" title="爱发电--魔茶国际" width="175" height="35" align="left" style="margin:3px;">
+</a>
+<a href="https://space.bilibili.com/5770393/#/">
+<img src="https://i.loli.net/2018/09/17/5b9f1f37446ee.png" alt=“bilibili” title="b站主程序空间" width="175" height="35" align="left">
+</a>
+/// Container
+<div class="panel ui-draggable-handle panel-default"><div class="panel-heading"><h3 class="panel-title" style="text-align:center;">{{title}}</h3></div><div class="panel-body"><b>{{body}}</b></div></div>
